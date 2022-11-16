@@ -16,6 +16,6 @@ public class DemonEx1 {
         // 메인 쓰레드 재우기
         Thread.sleep(10 * 1000);
         
-        System.out.println("Main Thread has been ended!!!");
+        System.out.println("Server Thread has been ended!!!");
     }
 }

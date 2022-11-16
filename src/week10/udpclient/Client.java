@@ -8,7 +8,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-public class Main {
+public class Client {
 
     // DatagramSocket : 소켓 생성
     // DatagramPacket : UDP 패킷

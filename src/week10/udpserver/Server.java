@@ -5,7 +5,7 @@ import java.net.DatagramSocket;
 import java.net.DatagramPacket;
 import java.net.SocketException;
 
-public class Main {
+public class Server {
 
     // DatagramSocket : 소켓 생성
     // DatagramPacket : UDP 패킷
